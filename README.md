@@ -1,1 +1,1 @@
-# Stick-Ckricket-2D (My Version)
+# Stick-Cricket-2D (My Version)
